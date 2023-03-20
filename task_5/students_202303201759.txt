@@ -1,0 +1,8 @@
+|id |lastname   |firstname |email                     |city             |age|
+|---|-----------|----------|--------------------------|-----------------|---|
+|0  |Chmielińska|Justyna   |misierules@mail.com       |Cracow           |27 |
+|1  |Bear       |Paddington|ilovemarmalade@mail.com   |London           |65 |
+|2  |Pooh       |Winnie    |honeyismylife@mail.com    |Hundred Acre Wood|97 |
+|3  |Miś        |Uszatek   |klapnieteuszko69@mail.com |Warsaw           |66 |
+|4  |Bear       |Yogi      |pic-a-nic-baskets@mail.com|Yellowstone      |58 |
+|5  |Ours       |Colargol  |omlettedufromage@mail.com |Paris            |73 |
