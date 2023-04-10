@@ -6,6 +6,10 @@
 
 ☁️ 02/03/2023 Python and Cloud Function ✅
 
+☁️ 09/03/2023 Create Virtual Machine ✅
+
 ☁️ 16/03/2023 Create Cloud SQL ✅
 
 ☁️ 23/03/2023 Infrastructure as a Code ✅
+
+☁️ 30/03/2023 CI/CD ✅
